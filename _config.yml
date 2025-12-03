@@ -1,0 +1,13 @@
+title: "Learning Acceleration & Innovation Lab"
+description: "Advancing Education, AI, and Data Science through Innovation"
+url: "https://laail.github.io"
+baseurl: ""
+theme: jekyll-theme-cayman
+
+# Optional: show GitHub repo link in header if this is a public repo
+github:
+  is_project_page: true
+  repository_url: "https://github.com/laail/laail.github.io"
+
+# Navbar / metadata
+lab_short_name: "LAAIL"
